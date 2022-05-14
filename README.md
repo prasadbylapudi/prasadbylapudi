@@ -13,6 +13,9 @@
 <a href="https://www.instagram.com/prasad_bylapudi/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
+  <a href="  https://prasadbylapudi.github.io/">
+  <img src="https://img.shields.io/badge/website-%23E4805F.svg?&style=for-the-badge&logo=website&logoColor=white" />
+</a>&nbsp;&nbsp;
 </p>
 
 ### Languages and Tools:
