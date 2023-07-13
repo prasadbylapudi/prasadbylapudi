@@ -1,6 +1,6 @@
 <h1 align='center'> Hi, I'm Prasad Bylapudi 👋 👨‍💻</h1>
 
-<p align='center'>I'm a Software Engineer interested in making scalable web applications which can be used by people and help them to do certain work easily. I know how to build applications with MERN Stack and deploy them completely at ready to use level.</p>
+<p align='center'>I am an enthusiastic individual with a strong ability to thrive both as a collaborative team member and a self-driven contributor. Passionate about embracing emerging technologies, I possess a keen interest in continuously expanding my knowledge. During my leisure time, I find solace in practicing yoga, immersing myself in captivating travel documentaries, and indulging in the melodious world of music.</p>
 
 <p align='center'>
 
